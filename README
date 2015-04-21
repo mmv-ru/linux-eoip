@@ -1,3 +1,7 @@
+MikroTik EoIP implementation
+
+Imported from https://code.google.com/p/linux-eoip/
+
 Attention!
 If you use dynamic=1 option, take attention that there is no authorization,
 and it is not secure. It is not good idea to use this feature with public
